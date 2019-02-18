@@ -1,0 +1,22 @@
+
+.question-card {
+  border-left: solid 2px grey;
+  background-color: #EEEEEE;
+  width: 50%;
+}
+
+.answer-card {
+  background-color: #D4E9F6;
+  border-left: solid 2px grey;
+  width: 50%;
+}
+
+.author {
+  font-style: italic
+  font-weight: lighter;
+}
+
+body {
+  margin-left: 20px;
+  margin-top: 20px;
+}
